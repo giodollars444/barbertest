@@ -20,8 +20,8 @@ return [
     'smtp_enabled' => false, // Set to true to use SMTP instead of PHP mail()
     'smtp_host' => 'smtp.gmail.com',
     'smtp_port' => 587,
-    'smtp_username' => 'your-email@gmail.com',
-    'smtp_password' => 'your-app-password',
+    'smtp_username' => 'giovannipay4@gmail.com',
+    'smtp_password' => 'Giovanni123!',
     'smtp_encryption' => 'tls', // 'tls' or 'ssl'
     
     // Email templates settings
